@@ -24,6 +24,26 @@ namespace tpno2
                // throw;
             }
             Console.ReadKey();
+
+            float numero1, numero2, resultado;
+            string aux1, aux2;
+            try
+            {
+                Console.WriteLine("Escriba el numerador: ");
+                aux1 = Console.ReadLine();
+                numero1 = float.Parse(aux1);
+                Console.WriteLine("Escriba el denominador");
+                aux2 = Console.ReadLine();
+                numero2 = float.Parse(aux2);
+                resultado = numero1 / numero2;
+                Console.WriteLine("El resultado de la división es = " + resultado);
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine("Error");
+                Console.WriteLine(ex.ToString());
+                throw;
+            }
         }
     }
 }
