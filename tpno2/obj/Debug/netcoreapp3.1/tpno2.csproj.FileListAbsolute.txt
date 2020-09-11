@@ -1,0 +1,13 @@
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\bin\Debug\netcoreapp3.1\tpno2.exe
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\bin\Debug\netcoreapp3.1\tpno2.deps.json
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\bin\Debug\netcoreapp3.1\tpno2.runtimeconfig.json
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\bin\Debug\netcoreapp3.1\tpno2.runtimeconfig.dev.json
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\bin\Debug\netcoreapp3.1\tpno2.dll
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\bin\Debug\netcoreapp3.1\tpno2.pdb
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.csprojAssemblyReference.cache
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.AssemblyInfoInputs.cache
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.AssemblyInfo.cs
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.csproj.CoreCompileInputs.cache
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.dll
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.pdb
+E:\Users\maxi-\Documents\repo\tpnro2-maxi758-1\tpno2\obj\Debug\netcoreapp3.1\tpno2.genruntimeconfig.cache
