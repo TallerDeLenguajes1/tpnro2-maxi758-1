@@ -23,7 +23,7 @@ namespace tpno2
                 Console.WriteLine(ex.ToString());
                // throw;
             }
-            Console.ReadKey();
+            
 
             float numero1, numero2, resultado;
             string aux1, aux2;
